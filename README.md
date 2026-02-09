@@ -11,6 +11,8 @@
 
 This project automatically logs incoming emails into a Google Sheet using **n8n**. Whenever a new email is received in Gmail, the workflow extracts the date, sender, subject, and body, then appends them as a new row in Google Sheets.
 
+![Workflow Demo](workflow-demo.png)
+
 ### Tech Stack
 
 | Technology | Purpose |
