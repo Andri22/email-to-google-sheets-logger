@@ -146,7 +146,7 @@ email-to-sheets-logger/
 
 ## 👨‍💻 Author
 
-**Andri Puji Prasetiyo**
+**Andri Puji Prasetiyo**  
 Automation & AI Engineering Learner  
 *Target: Build Production-Ready AI Portfolio*
 
